@@ -32,10 +32,6 @@ limits of their respective policies.
 
 **How many passwords are valid** according to their policies?
 
-<details>
-  <summary><strong><em>See result here</em></strong></summary>
-	Your puzzle answer was <strong><em>628</em></strong>.
-</details>
 
 ### --- Part Two ---
 
